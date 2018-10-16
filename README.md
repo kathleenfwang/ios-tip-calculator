@@ -8,4 +8,4 @@
 - Two different UI Themes: light and dark 
 - Button to easily toggle between themes 
 
-Tutorial by [Make School](https://www.makeschool.com/online-courses/online-academy)
+ 
